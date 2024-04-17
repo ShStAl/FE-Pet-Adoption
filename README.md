@@ -1,7 +1,7 @@
 # Pet Adoption
 Frontend part of Full-Stack application, that allows users to search pets, foster and adopt them.
 
-[Link](https://fs-pet-adoption-fe-sh-st-al.vercel.app/)
+[Link](https://pet-adoption-fe-shst.vercel.app/)
 ## Details
 
 - User can signup and login
